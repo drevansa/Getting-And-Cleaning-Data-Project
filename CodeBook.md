@@ -33,3 +33,319 @@ The processing steps included the following:
 
 ### Data Dictionary - for tidy dataset tidy.txt
 
+1. subject
+
+   int 1  
+
+2. activity
+
+   chr "LAYING"  
+
+3. tBodyAccMeanX
+
+   num 0.222  
+
+tBodyAccMeanY
+
+   num -0.0405  
+
+tBodyAccMeanZ
+
+   num -0.113  
+
+tBodyAccStdX
+
+   num -0.928  
+
+tBodyAccStdY
+
+   num -0.837  
+
+tBodyAccStdZ
+
+   num -0.826  
+
+tGravityAccMeanX
+
+  num -0.249
+
+tGravityAccMeanY
+
+  num 0.706
+
+tGravityAccMeanZ
+
+  num 0.446
+
+tGravityAccStdX
+
+  num -0.897
+
+tGravityAccStdY
+
+  num -0.908
+
+tGravityAccStdZ
+
+  num -0.852
+
+tBodyAccJerkMeanX
+
+  num 0.0811
+
+tBodyAccJerkMeanY
+
+  num 0.00384
+
+tBodyAccJerkMeanZ
+
+  num 0.0108
+
+tBodyAccJerkStdX
+
+  num -0.958
+
+tBodyAccJerkStdY
+
+  num -0.924
+
+tBodyAccJerkStdZ
+
+  num -0.955
+
+tBodyGyroMeanX
+
+  num -0.0166
+
+tBodyGyroMeanY
+
+  num -0.0645
+
+tBodyGyroMeanZ
+
+  num 0.149
+
+tBodyGyroStdX
+
+  num -0.874
+
+tBodyGyroStdY
+
+  num -0.951
+
+tBodyGyroStdZ
+
+  num -0.908
+
+tBodyGyroJerkMeanX
+
+  num -0.107
+
+tBodyGyroJerkMeanY
+
+  num -0.0415
+
+tBodyGyroJerkMeanZ
+
+  num -0.0741
+
+tBodyGyroJerkStdX
+
+  num -0.919
+
+tBodyGyroJerkStdY
+
+  num -0.968
+
+tBodyGyroJerkStdZ
+
+  num -0.958
+
+tBodyAccMagMean
+
+  num -0.842
+
+tBodyAccMagStd
+
+  num -0.795
+
+tGravityAccMagMean
+
+  num -0.842
+
+tGravityAccMagStd
+
+  num -0.795
+
+tBodyAccJerkMagMean
+
+  num -0.954
+
+tBodyAccJerkMagStd
+
+  num -0.928
+
+tBodyGyroMagMean
+
+  num -0.875
+
+tBodyGyroMagStd
+
+  num -0.819
+
+tBodyGyroJerkMagMean
+
+  num -0.963
+
+tBodyGyroJerkMagStd
+
+  num -0.936
+
+fBodyAccMeanX
+
+  num -0.939
+
+fBodyAccMeanY
+
+  num -0.867
+
+fBodyAccMeanZ
+
+  num -0.883
+
+fBodyAccStdX
+
+  num -0.924
+
+fBodyAccStdY
+
+  num -0.834
+
+fBodyAccStdZ
+
+  num -0.813
+
+fBodyAccMeanFreqX
+
+  num -0.159
+
+fBodyAccMeanFreqY
+
+  num 0.0975
+
+fBodyAccMeanFreqZ
+
+  num 0.0894
+
+fBodyAccJerkMeanX
+
+  num -0.957
+
+fBodyAccJerkMeanY
+
+  num -0.922
+
+fBodyAccJerkMeanZ
+
+  num -0.948
+
+fBodyAccJerkStdX
+
+  num -0.964
+
+fBodyAccJerkStdY
+
+  num -0.932
+
+fBodyAccJerkStdZ
+
+  num -0.961
+
+fBodyAccJerkMeanFreqX
+
+  num 0.132
+
+fBodyAccJerkMeanFreqY
+
+  num 0.0245
+
+fBodyAccJerkMeanFreqZ
+
+  num 0.0244
+
+fBodyGyroMeanX
+
+  num -0.85
+
+fBodyGyroMeanY
+
+  num -0.952
+
+fBodyGyroMeanZ
+
+  num -0.909
+
+fBodyGyroStdX
+
+  num -0.882
+
+fBodyGyroStdY
+
+  num -0.951
+
+fBodyGyroStdZ
+
+  num -0.917
+
+fBodyGyroMeanFreqX
+
+  num -0.00355
+
+fBodyGyroMeanFreqY
+
+  num -0.0915
+
+fBodyGyroMeanFreqZ
+
+
+  num 0.0105
+
+
+fBodyAccMagMean
+  num -0.862
+fBodyAccMagStd
+  num -0.798
+fBodyAccMagMeanFreq
+  num 0.0864
+fBodyBodyAccJerkMagMean
+  num -0.933
+fBodyBodyAccJerkMagStd
+  num -0.922
+fBodyBodyAccJerkMagMeanFreq
+  num 0.266
+fBodyBodyGyroMagMean
+  num -0.862
+fBodyBodyGyroMagStd
+  num -0.824
+fBodyBodyGyroMagMeanFreq
+  num -0.14
+fBodyBodyGyroJerkMagMean
+  num -0.942
+fBodyBodyGyroJerkMagStd
+  num -0.933
+fBodyBodyGyroJerkMagMeanFreq
+  num 0.176
+angletBodyAccMeanGravity
+  num 0.0214
+angletBodyAccJerkMeanGravityMean
+  num 0.00306
+angletBodyGyroMeanGravityMean
+  num -0.00167
+angletBodyGyroJerkMeanGravityMean
+  num 0.0844
+angleXGravityMean
+  num 0.427
+angleYGravityMean
+  num -0.52
+angleZGravityMean
+  num -0.352
