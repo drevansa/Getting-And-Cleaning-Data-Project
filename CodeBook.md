@@ -342,50 +342,62 @@ Fields in tidy dataset in order of output, left to right
 
 61. fBodyGyroMeanX
 
+   average of mean Fast Fourier Transformed body gravity acceleration signal in the X direction for the activity by subject  
    num -0.99312260884058...0.474962448333333 
 
 62. fBodyGyroMeanY
 
+   average of mean Fast Fourier Transformed body gravity acceleration signal in the Y direction for the activity by subject  
    num -0.994025488297872...0.328817010088889
 
 63. fBodyGyroMeanZ
 
+   average of mean Fast Fourier Transformed body gravity acceleration signal in the Z direction for the activity by subject  
    num -0.985957788...0.492414379822222  
 
 64. fBodyGyroStdX
 
+   average of standard deviation Fast Fourier Transformed body gravity acceleration signal in the X direction for the activity by subject  
    num -0.994652185217391...0.196613286661538  
 
 65. fBodyGyroStdY
 
+   average of standard deviation Fast Fourier Transformed body gravity acceleration signal in the Y direction for the activity by subject  
    num -0.994353086595745...0.646233637037037  
 
 66. fBodyGyroStdZ
 
+   average of standard deviation Fast Fourier Transformed body gravity acceleration signal in the Z direction for the activity by subject  
    num -0.986725274871795...0.522454216314815  
 
 67. fBodyGyroMeanFreqX
 
+   average of mean frequency domain signals from  Fast Fourier Transformed body gravity acceleration signal in the X direction for the activity by subject  
    num -0.395770150677419...0.249209411510602 
 
 68. fBodyGyroMeanFreqY
 
+   average of mean frequency domain signals from  Fast Fourier Transformed body gravity acceleration signal in the Y direction for the activity by subject  
    num -0.666814815306122...0.273141323315789
 
 69. fBodyGyroMeanFreqZ
 
+   average of mean frequency domain signals from  Fast Fourier Transformed body gravity acceleration signal in the Z direction for the activity by subject  
    num -0.507490866734694...0.3770740968  
 
 70. fBodyAccMagMean
 
+   average of mean magnitude of Fast Fourier Transformed body acceleration signal for the activity by subject  
    num -0.986800645362319...0.586637550769231  
 
 71. fBodyAccMagStd
 
+   average of standard deviation magnitude of Fast Fourier Transformed body acceleration signal for the activity by subject  
    num -0.987648484461539...0.178684580868889 
 
 72. fBodyAccMagMeanFreq
 
+   average of mean magnitude of frequency domain signals from Fast Fourier Transformed body acceleration signal for the activity by subject  
    num -0.312338030213846...0.435846931652174  
 
 73. fBodyBodyAccJerkMagMean
