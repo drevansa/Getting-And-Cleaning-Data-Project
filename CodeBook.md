@@ -437,36 +437,46 @@ Fields in tidy dataset in order of output, left to right
 
 80. fBodyBodyGyroJerkMagStd
 
+   average of standard deviation magnitude of the Fast Fourier Transformed body gravity acceleration jerk signal for the activity by subject  
    num -0.99758523057971...0.287834616098305 
 
 81. fBodyBodyGyroJerkMagMeanFreq
 
+   average of mean magnitude of the frequency domain signals from the Fast Fourier Transformed body gravity acceleration jerk signal for the activity by subject  
    num -0.182923596577778...0.426301679855072   
 
 82. angletBodyAccMeanGravity
 
+   angle between vectors of body acceleration signal and gravity acceleration signal means  
    num -0.163042575021277...0.129153963587755 
 
 83. angletBodyAccJerkMeanGravityMean
 
+   angle between vectors of body acceleration Jerk signal and gravity acceleration signal means  
    num -0.120553975717391...0.203259965863014   
 
 84. angletBodyGyroMeanGravityMean
 
+   angle between vectors of body gravity acceleration signal and gravity acceleration signal means  
    num -0.389305120341463...0.444101172307692 
 
 85. angletBodyGyroJerkMeanGravityMean
 
+   angle between vectors of body gravity acceleration jerk signal and gravity acceleration signal means  
    num -0.223672056052174...0.182384802705085
 
 86. angleXGravityMean
 
+   angle between vectors of gravity acceleration signal means in the X direction  
    num -0.947116527659574...0.737784354819277 
 
 87. angleYGravityMean
 
+   angle between vectors of gravity acceleration signal means in the Y direction  
    num -0.874567701929825...0.42476122745098  
 
 88. angleZGravityMean
 
-   num -0.873649367...0.390444368518519   
+   angle between vectors of gravity acceleration signal means in the Z direction  
+   num -0.873649367...0.390444368518519  
+ 
