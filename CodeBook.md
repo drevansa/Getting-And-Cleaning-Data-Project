@@ -29,7 +29,8 @@ The processing steps included the following:
 7. replace activity codes with activity descriptions, as per the project brief
 8. amend descriptive variable labels to R friendly labels, removing "-", "()", and amending format to camelCase, as per the project brief
 9. derive the average of each variable for each activity and each subject, as per the project brief
-10. write the resulting tidy set out to a text file, as per the project brief
+10. append subject group to data frame
+11. write the resulting tidy set out to a text file, as per the project brief
 
 ### Data Dictionary - for tidy dataset tidy.txt
 
@@ -479,4 +480,12 @@ Fields in tidy dataset in order of output, left to right
 
    angle between vectors of gravity acceleration signal means in the Z direction  
    num -0.873649367...0.390444368518519  
+
+89. subjectGroup
+
+   chr  
+
+ 1.test  
+ 2.train  
+
  
