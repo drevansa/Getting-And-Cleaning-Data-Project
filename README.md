@@ -1,7 +1,7 @@
 # Getting-And-Cleaning-Data-Project
 
 ### Introduction
-This repository contains files and information required for the Coursera Getting And Cleaning Data course project, the aim of which was to prepare a single tidy data file from the "Human Activity Recognition Using Smartphones Dataset - Version 1.0".
+This repository contains files and information required for the Coursera Getting And Cleaning Data course project, the aim of which was to prepare a tidy data set from the "Human Activity Recognition Using Smartphones Dataset - Version 1.0", which can be used for later analysis.
 
 ### Contents of the Repository
 
@@ -73,5 +73,5 @@ To re-run the analysis:
         ```
 6. call the run_analysis.R using the source command; else copy and paste the contents into the R terminal window.
         ```
-        source("run_anlaysis.R")
+        source("run_analysis.R")
         ```
