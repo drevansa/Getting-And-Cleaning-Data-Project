@@ -45,307 +45,342 @@ The processing steps included the following:
 
    num 0.222  
 
-tBodyAccMeanY
+4. tBodyAccMeanY
 
    num -0.0405  
 
-tBodyAccMeanZ
+5. tBodyAccMeanZ
 
    num -0.113  
 
-tBodyAccStdX
+6. tBodyAccStdX
 
    num -0.928  
 
-tBodyAccStdY
+7. tBodyAccStdY
 
    num -0.837  
 
-tBodyAccStdZ
+8. tBodyAccStdZ
 
    num -0.826  
 
-tGravityAccMeanX
+9. tGravityAccMeanX
 
-  num -0.249
+   num -0.249  
 
-tGravityAccMeanY
+10. tGravityAccMeanY
 
-  num 0.706
+   num 0.706  
 
-tGravityAccMeanZ
+11. tGravityAccMeanZ
 
-  num 0.446
+   num 0.446  
 
-tGravityAccStdX
+12. tGravityAccStdX
 
-  num -0.897
+   num -0.897  
 
-tGravityAccStdY
+13. tGravityAccStdY
 
-  num -0.908
+   num -0.908  
 
-tGravityAccStdZ
+14. tGravityAccStdZ
 
-  num -0.852
+   num -0.852  
 
-tBodyAccJerkMeanX
+15. tBodyAccJerkMeanX
 
-  num 0.0811
+   num 0.0811  
 
-tBodyAccJerkMeanY
+16. tBodyAccJerkMeanY
 
-  num 0.00384
+   num 0.00384  
 
-tBodyAccJerkMeanZ
+17. tBodyAccJerkMeanZ
 
-  num 0.0108
+   num 0.0108  
 
-tBodyAccJerkStdX
+18. tBodyAccJerkStdX
 
-  num -0.958
+   num -0.958  
 
-tBodyAccJerkStdY
+19. tBodyAccJerkStdY
 
-  num -0.924
+   num -0.924  
 
-tBodyAccJerkStdZ
+20. tBodyAccJerkStdZ
 
-  num -0.955
+   num -0.955  
 
-tBodyGyroMeanX
+21. tBodyGyroMeanX
 
-  num -0.0166
+   num -0.0166  
 
-tBodyGyroMeanY
+22. tBodyGyroMeanY
 
-  num -0.0645
+   num -0.0645  
 
-tBodyGyroMeanZ
+23. tBodyGyroMeanZ
 
-  num 0.149
+   num 0.149  
 
 tBodyGyroStdX
 
-  num -0.874
+   num -0.874  
 
 tBodyGyroStdY
 
-  num -0.951
+   num -0.951  
 
 tBodyGyroStdZ
 
-  num -0.908
+   num -0.908  
 
 tBodyGyroJerkMeanX
 
-  num -0.107
+   num -0.107  
 
 tBodyGyroJerkMeanY
 
-  num -0.0415
+   num -0.0415  
 
 tBodyGyroJerkMeanZ
 
-  num -0.0741
+   num -0.0741  
 
 tBodyGyroJerkStdX
 
-  num -0.919
+   num -0.919  
 
 tBodyGyroJerkStdY
 
-  num -0.968
+   num -0.968  
 
 tBodyGyroJerkStdZ
 
-  num -0.958
+   num -0.958  
 
 tBodyAccMagMean
 
-  num -0.842
+   num -0.842  
 
 tBodyAccMagStd
 
-  num -0.795
+   num -0.795  
 
 tGravityAccMagMean
 
-  num -0.842
+   num -0.842  
 
 tGravityAccMagStd
 
-  num -0.795
+   num -0.795  
 
 tBodyAccJerkMagMean
 
-  num -0.954
+   num -0.954  
 
 tBodyAccJerkMagStd
 
-  num -0.928
+   num -0.928  
 
 tBodyGyroMagMean
 
-  num -0.875
+   num -0.875  
 
 tBodyGyroMagStd
 
-  num -0.819
+   num -0.819  
 
 tBodyGyroJerkMagMean
 
-  num -0.963
+   num -0.963  
 
 tBodyGyroJerkMagStd
 
-  num -0.936
+   num -0.936  
 
 fBodyAccMeanX
 
-  num -0.939
+   num -0.939  
 
 fBodyAccMeanY
 
-  num -0.867
+   num -0.867  
 
 fBodyAccMeanZ
 
-  num -0.883
+   num -0.883  
 
 fBodyAccStdX
 
-  num -0.924
+   num -0.924  
 
 fBodyAccStdY
 
-  num -0.834
+   num -0.834  
 
 fBodyAccStdZ
 
-  num -0.813
+   num -0.813  
 
 fBodyAccMeanFreqX
 
-  num -0.159
+   num -0.159  
 
 fBodyAccMeanFreqY
 
-  num 0.0975
+   num 0.0975  
 
 fBodyAccMeanFreqZ
 
-  num 0.0894
+   num 0.0894  
 
 fBodyAccJerkMeanX
 
-  num -0.957
+   num -0.957  
 
 fBodyAccJerkMeanY
 
-  num -0.922
+   num -0.922  
 
 fBodyAccJerkMeanZ
 
-  num -0.948
+   num -0.948  
 
 fBodyAccJerkStdX
 
-  num -0.964
+   num -0.964  
 
 fBodyAccJerkStdY
 
-  num -0.932
+   num -0.932  
 
 fBodyAccJerkStdZ
 
-  num -0.961
+   num -0.961  
 
 fBodyAccJerkMeanFreqX
 
-  num 0.132
+   num 0.132  
 
 fBodyAccJerkMeanFreqY
 
-  num 0.0245
+   num 0.0245  
 
 fBodyAccJerkMeanFreqZ
 
-  num 0.0244
+   num 0.0244  
 
 fBodyGyroMeanX
 
-  num -0.85
+   num -0.85  
 
 fBodyGyroMeanY
 
-  num -0.952
+   num -0.952  
 
 fBodyGyroMeanZ
 
-  num -0.909
+   num -0.909  
 
 fBodyGyroStdX
 
-  num -0.882
+   num -0.882  
 
 fBodyGyroStdY
 
-  num -0.951
+   num -0.951  
 
 fBodyGyroStdZ
 
-  num -0.917
+   num -0.917  
 
 fBodyGyroMeanFreqX
 
-  num -0.00355
+   num -0.00355  
 
 fBodyGyroMeanFreqY
 
-  num -0.0915
+   num -0.0915  
 
 fBodyGyroMeanFreqZ
 
-
-  num 0.0105
-
+   num 0.0105  
 
 fBodyAccMagMean
-  num -0.862
+
+   num -0.862  
+
 fBodyAccMagStd
-  num -0.798
+
+   num -0.798  
+
 fBodyAccMagMeanFreq
-  num 0.0864
+
+   num 0.0864  
+
 fBodyBodyAccJerkMagMean
-  num -0.933
+
+   num -0.933  
+
 fBodyBodyAccJerkMagStd
-  num -0.922
+
+   num -0.922  
+
 fBodyBodyAccJerkMagMeanFreq
-  num 0.266
+
+   num 0.266  
+
 fBodyBodyGyroMagMean
-  num -0.862
+
+   num -0.862  
+
 fBodyBodyGyroMagStd
-  num -0.824
+
+   num -0.824  
+
 fBodyBodyGyroMagMeanFreq
-  num -0.14
+
+   num -0.14  
+
 fBodyBodyGyroJerkMagMean
-  num -0.942
+
+   num -0.942  
+
 fBodyBodyGyroJerkMagStd
-  num -0.933
+
+   num -0.933  
+
 fBodyBodyGyroJerkMagMeanFreq
-  num 0.176
+
+   num 0.176  
+
 angletBodyAccMeanGravity
-  num 0.0214
+
+   num 0.0214  
+
 angletBodyAccJerkMeanGravityMean
-  num 0.00306
+
+   num 0.00306  
+
 angletBodyGyroMeanGravityMean
-  num -0.00167
+
+   num -0.00167  
+
 angletBodyGyroJerkMeanGravityMean
-  num 0.0844
+
+   num 0.0844  
+
 angleXGravityMean
-  num 0.427
+
+   num 0.427  
+
 angleYGravityMean
-  num -0.52
+
+   num -0.52  
+
 angleZGravityMean
-  num -0.352
+
+   num -0.352  
