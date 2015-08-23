@@ -202,42 +202,52 @@ Fields in tidy dataset in order of output, left to right
 
 33. tBodyAccMagMean
 
+   average of mean magnitude of body acceleration signal for the activity by subject  
    num -0.986493196666667...0.644604325128205  
 
 34. tBodyAccMagStd
 
+   average of standard deviation magnitude of body acceleration signal for the activity by subject  
    num -0.986464542615385...0.428405922622222 
 
 35. tGravityAccMagMean
 
+   average of mean magnitude of gravity acceleration signal for the activity by subject  
    num -0.986493196666667...0.644604325128205 
 
 36. tGravityAccMagStd
 
+   average of standard magnitude of gravity acceleration signal for the activity by subject  
    num -0.986464542615385...0.428405922622222   
 
 37. tBodyAccJerkMagMean
 
+   average of mean magnitude of body linear acceleration jerk signal for the activity by subject  
    num -0.99281471515625...0.434490400974359   
 
 38. tBodyAccJerkMagStd
 
+   average of standard deviation magnitude of body linear acceleration jerk signal for the activity by subject  
    num -0.994646916811594...0.450612065720513 
 
 39. tBodyGyroMagMean
 
+   average of mean magnitude of body gravity acceleration for the activity by subject  
    num -0.980740846769231...0.418004608615385  
 
 40. tBodyGyroMagStd
 
+   average of standard deviation magnitude of body gravity acceleration for the activity by subject  
    num -0.981372675614035...0.299975979851852  
 
 41. tBodyGyroJerkMagMean
 
+   average of mean magnitude of body gravity acceleration jerk for the activity by subject  
    num -0.997322526811594...0.0875816618205128  
 
 42. tBodyGyroJerkMagStd
 
+   average of standard deviation magnitude of body gravity acceleration jerk for the activity by subject  
    num -0.997666071594203...0.250173204117966  
 
 43. fBodyAccMeanX
