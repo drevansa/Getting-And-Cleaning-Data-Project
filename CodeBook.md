@@ -41,13 +41,14 @@ Fields in tidy dataset in order of output, left to right
 
 2. activity
 
- chr
- 1. WALKING
- 2. WALKING_UPSTAIRS
- 3. WALKING_DOWNSTAIRS
- 4. SITTING
- 5. STANDING
- 6. LAYING
+   chr  
+
+ 1.WALKING  
+ 2.WALKING_UPSTAIRS  
+ 3.WALKING_DOWNSTAIRS  
+ 4.SITTING  
+ 5.STANDING  
+ 6.LAYING  
 
 3. tBodyAccMeanX
 
