@@ -402,30 +402,37 @@ Fields in tidy dataset in order of output, left to right
 
 73. fBodyBodyAccJerkMagMean
 
+   average of mean magnitude of the Fast Fourier Transformed body linear acceleration jerk signal for the activity by subject  
    num -0.993998275797101...0.538404846128205  
 
 74. fBodyBodyAccJerkMagStd
 
+   average of standard deviation magnitude of the Fast Fourier Transformed body linear acceleration jerk signal for the activity by subject  
    num -0.994366667681159...0.316346415348718 
 
 75. fBodyBodyAccJerkMagMeanFreq
 
+   average of mean magnitude of the frequency domain signals from the Fast Fourier Transformed body linear acceleration jerk signal for the activity by subject  
    num -0.125210388757581...0.488088499666667
 
 76. fBodyBodyGyroMagMean
 
+   average of mean magnitude of the Fast Fourier Transformed body gravity acceleration signal for the activity by subject  
    num -0.986535242105263...0.203979764835897  
 
 77. fBodyBodyGyroMagStd
 
+   average of standard deviation magnitude of the Fast Fourier Transformed body gravity acceleration signal for the activity by subject  
    num -0.981468841692308...0.236659662496296  
 
 78. fBodyBodyGyroMagMeanFreq
 
+   average of mean magnitude of the frequency domain signals from the Fast Fourier Transformed body gravity acceleration signal for the activity by subject  
    num -0.456638670923077...0.409521611525424 
 
 79. fBodyBodyGyroJerkMagMean
 
+   average of mean magnitude of the Fast Fourier Transformed body gravity acceleration jerk signal for the activity by subject  
    num -0.997617389275362...0.146618569064407  
 
 80. fBodyBodyGyroJerkMagStd
