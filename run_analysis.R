@@ -48,5 +48,14 @@ names(mergedss) <- gsub(',gravity', 'Gravity', names(mergedss))
 ## create a data set with the average of each variable for each activity and each subject
 mean_mergedss <- ddply(mergedss, .(subject, activity), function(x) colMeans(x[, 3:88]))
 
+## append subject group to data frame
+testgrp <- unique(test[,1]) 
+
+subjectGroup <- mean_mergedss$subject %in% testgrp
+subjectGroup <- replace(subjectGroup, subjectGroup == TRUE, "test")
+subjectGroup <- replace(subjectGroup, subjectGroup == FALSE, "train")
+
+mean_mergedss <- cbind(mean_mergedss, subjectGroup)
+
 ## save tidy dataset as a txt file
 write.table(mean_mergedss, "tidy.txt", quote = FALSE, row.names = FALSE)
