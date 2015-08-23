@@ -18,11 +18,12 @@ The script does the following:
 
 #### Script output - tidy.txt
 The output of run_analysis.R is text file tidy.txt, which is written out to the working directory.
-To view the contents of the file, in R, within the working directory, type:
+To view the contents of the file locally, in R, within the working directory, type:
 ```
 data <- read.table("tidy.txt", header = TRUE)
 View(data)
 ```
+A copy of the output has been upload to this repository for review.
 
 #### Code Book
 CodeBook.md 
