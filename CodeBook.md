@@ -118,12 +118,12 @@ Fields in tidy dataset in order of output, left to right
 16. tBodyAccJerkMeanY
 
    average of mean body linear acceleration jerk signal in the Y direction for the activity by subject  
-   num -0.0386872111282051 0.056818586275  
+   num -0.0386872111282051...0.056818586275  
 
 17. tBodyAccJerkMeanZ
 
    average of mean body linear acceleration jerk signal in the Z direction for the activity by subject  
-   num -0.0674583919268293 0.0380533591627451  
+   num -0.0674583919268293...0.0380533591627451  
 
 18. tBodyAccJerkStdX
 
@@ -153,7 +153,7 @@ Fields in tidy dataset in order of output, left to right
 23. tBodyGyroMeanZ
 
    average of mean body gravity acceleration signal in the Z direction for the activity by subject  
-   num -0.0724546025804878 0.179102058245614  
+   num -0.0724546025804878...0.179102058245614  
 
 24. tBodyGyroStdX
 
@@ -178,12 +178,12 @@ Fields in tidy dataset in order of output, left to right
 28. tBodyGyroJerkMeanY
 
    average of mean body angular velocity jerk signal in the Y direction for the activity by subject  
-   num -0.0768089915604167 -0.0132022768074468  
+   num -0.0768089915604167...-0.0132022768074468  
 
 29. tBodyGyroJerkMeanZ
 
    average of mean body angular velocity jerk signal in the Z direction for the activity by subject  
-   num -0.0924998531372549 -0.00694066389361702  
+   num -0.0924998531372549...-0.00694066389361702  
 
 30. tBodyGyroJerkStdX
 
@@ -252,74 +252,92 @@ Fields in tidy dataset in order of output, left to right
 
 43. fBodyAccMeanX
 
+   average of mean Fast Fourier Transformed body acceleration signal in the X direction for the activity by subject  
    num -0.995249932641509...0.537012022051282
 
 44. fBodyAccMeanY
 
+   average of mean Fast Fourier Transformed body acceleration signal in the Y direction for the activity by subject  
    num -0.989034304057971...0.524187686888889  
 
 45. fBodyAccMeanZ
 
+   average of mean Fast Fourier Transformed body acceleration signal in the Z direction for the activity by subject  
    num -0.989473926666667...0.280735952206667  
 
 46. fBodyAccStdX
 
+   average of standard deviation Fast Fourier Transformed body acceleration signal in the X direction for the activity by subject  
    num -0.996604570307692...0.658506543333333  
 
 47. fBodyAccStdY
 
+   average of standard deviation Fast Fourier Transformed body acceleration signal in the Y direction for the activity by subject  
    num -0.990680395362319...0.560191344 
 
 48. fBodyAccStdZ
 
+   average of standard deviation Fast Fourier Transformed body acceleration signal in the Z direction for the activity by subject  
    num -0.987224804307692...0.687124163703704 
 
 49. fBodyAccMeanFreqX
 
+   average of mean frequency domain signals from Fast Fourier Transformed body acceleration signal in the X direction for the activity by subject  
    num -0.635913046346154...0.159123629063636  
 
 50. fBodyAccMeanFreqY
 
+   average of mean frequency domain signals from Fast Fourier Transformed body acceleration signal in the Y direction for the activity by subject  
    num -0.379518455061538...0.466528231788462 
 
 51. fBodyAccMeanFreqZ
 
+   average of mean frequency domain signals from Fast Fourier Transformed body acceleration signal in the Z direction for the activity by subject  
    num -0.520114793584906...0.402532553395833   
 
 52. fBodyAccJerkMeanX
 
+   average of mean Fast Fourier Transformed body linear acceleration jerk signal in the X direction for the activity by subject  
    num -0.994630797358491...0.474317256051282  
 
 53. fBodyAccJerkMeanY
 
+   average of mean Fast Fourier Transformed body linear acceleration jerk signal in the Y direction for the activity by subject  
    num -0.989398823913043...0.276716853307692 
 
 54. fBodyAccJerkMeanZ
 
+   average of mean Fast Fourier Transformed body linear acceleration jerk signal in the Z direction for the activity by subject  
    num -0.992018447826087...0.157775692377778 
 
 55. fBodyAccJerkStdX
 
+   average of standard deviation Fast Fourier Transformed body linear acceleration jerk signal in the X direction for the activity by subject  
    num -0.995073759245283...0.476803887476923 
 
 56. fBodyAccJerkStdY
 
+   average of standard deviation Fast Fourier Transformed body linear acceleration jerk signal in the Y direction for the activity by subject  
    num -0.990468082753623...0.349771285415897  
 
 57. fBodyAccJerkStdZ
 
+   average of standard deviation Fast Fourier Transformed body linear acceleration jerk signal in the Z direction for the activity by subject  
    num -0.993107759855072...-0.00623647528983051 
 
 58. fBodyAccJerkMeanFreqX
 
+   average of mean frequency domain signals from Fast Fourier Transformed body linear acceleration jerk signal in the X direction for the activity by subject  
    num -0.576044001875...0.331449281481482 
 
 59. fBodyAccJerkMeanFreqY
 
+   average of mean frequency domain signals from Fast Fourier Transformed body linear acceleration jerk signal in the Y direction for the activity by subject  
    num -0.601971415384615...0.195677336307692 
 
 60. fBodyAccJerkMeanFreqZ
 
+   average of mean frequency domain signals from Fast Fourier Transformed body linear acceleration jerk signal in the Z direction for the activity by subject  
    num -0.62755547372549...0.230107945944444  
 
 61. fBodyGyroMeanX
