@@ -33,9 +33,11 @@ The processing steps included the following:
 
 ### Data Dictionary - for tidy dataset tidy.txt
 
+Fields in tidy dataset in order of output, left to right
+
 1. subject
 
-   int 1  
+   int 1...30  
 
 2. activity
 
@@ -43,50 +45,62 @@ The processing steps included the following:
 
 3. tBodyAccMeanX
 
+   average of mean body acceleration signal in the X direction for the activity by subject 
    num 0.22159824394...0.3014610196
 
 4. tBodyAccMeanY
 
+   average of mean body acceleration signal in the Y direction for the activity by subject  
    num -0.0405139534294...-0.00130828765170213 
 
 5. tBodyAccMeanZ
 
+   average of mean body acceleration signal in the Z direction for the activity by subject  
    num -0.152513899520833...-0.07537846886
 
 6. tBodyAccStdX
 
+   average of standard deviation body acceleration signal in the X direction for the activity by subject  
    num -0.996068635384615...0.626917070512821 
 
 7. tBodyAccStdY
 
+   average of standard deviation body acceleration signal in the Y direction for the activity by subject  
    num -0.990240946666667...0.616937015333333  
 
 8. tBodyAccStdZ
 
+   average of standard deviation body acceleration signal in the Z direction for the activity by subject  
    num -0.987658662307692...0.609017879074074  
 
 9. tGravityAccMeanX
 
+   average of mean gravity acceleration signal in the X direction for the activity by subject  
    num -0.680043155060241...0.974508732 
 
 10. tGravityAccMeanY
 
+   average of mean gravity acceleration signal in the Y direction for the activity by subject  
    num -0.479894842941176...0.9565938142105266  
 
 11. tGravityAccMeanZ
 
+   average of mean gravity acceleration signal in the Z direction for the activity by subject  
    num -0.49508872037037...0.9578730416 
 
 12. tGravityAccStdX
 
+   average of standard deviation gravity acceleration signal in the X direction for the activity by subject  
    num -0.996764227384615...-0.829554947808219 
 
 13. tGravityAccStdY
 
+   average of standard deviation gravity acceleration signal in the Y direction for the activity by subject  
    num -0.99424764884058...-0.643578361424658 
 
 14. tGravityAccStdZ
 
+   average of standard deviation gravity acceleration signal in the Z direction for the activity by subject  
    num -0.990957249538462...-0.610161166287671  
 
 15. tBodyAccJerkMeanX
