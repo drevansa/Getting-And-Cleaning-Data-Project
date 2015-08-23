@@ -41,11 +41,17 @@ Fields in tidy dataset in order of output, left to right
 
 2. activity
 
-   chr "LAYING"  
+ chr
+ 1. WALKING
+ 2. WALKING_UPSTAIRS
+ 3. WALKING_DOWNSTAIRS
+ 4. SITTING
+ 5. STANDING
+ 6. LAYING
 
 3. tBodyAccMeanX
 
-   average of mean body acceleration signal in the X direction for the activity by subject 
+   average of mean body acceleration signal in the X direction for the activity by subject  
    num 0.22159824394...0.3014610196
 
 4. tBodyAccMeanY
@@ -105,74 +111,92 @@ Fields in tidy dataset in order of output, left to right
 
 15. tBodyAccJerkMeanX
 
+   average of mean body linear acceleration jerk signal in the X direction for the activity by subject  
    num 0.0426880986186441...0.130193043809524 
 
 16. tBodyAccJerkMeanY
 
+   average of mean body linear acceleration jerk signal in the Y direction for the activity by subject  
    num -0.0386872111282051 0.056818586275  
 
 17. tBodyAccJerkMeanZ
 
+   average of mean body linear acceleration jerk signal in the Z direction for the activity by subject  
    num -0.0674583919268293 0.0380533591627451  
 
 18. tBodyAccJerkStdX
 
+   average of standard deviation body linear acceleration jerk signal in the X direction for the activity by subject  
    num -0.994604542264151...0.544273037307692  
 
 19. tBodyAccJerkStdY
 
+   average of standard deviation body linear acceleration jerk signal in the Y direction for the activity by subject  
    num -0.989513565652174...0.355306716915385  
 
 20. tBodyAccJerkStdZ
 
+   average of standard deviation body linear acceleration jerk signal in the Z direction for the activity by subject  
    num -0.993288313333333...0.0310157077775926  
 
 21. tBodyGyroMeanX
 
+   average of mean body gravity acceleration signal in the X direction for the activity by subject  
    num -0.205775427307692...0.19270447595122 
 
 22. tBodyGyroMeanY
 
+   average of mean body gravity acceleration signal in the Y direction for the activity by subject  
    num -0.204205356087805...0.0274707556666667 
 
 23. tBodyGyroMeanZ
 
+   average of mean body gravity acceleration signal in the Z direction for the activity by subject  
    num -0.0724546025804878 0.179102058245614  
 
 24. tBodyGyroStdX
 
+   average of standard deviation body gravity acceleration signal in the X direction for the activity by subject  
    num -0.994276591304348...0.267657219333333  
 
 25. tBodyGyroStdY
 
+   average of standard deviation body gravity acceleration signal in the Y direction for the activity by subject  
    num -0.994210471914894...0.476518714444444 
 
 26. tBodyGyroStdZ
 
+   average of standard deviation body gravity acceleration signal in the Z direction for the activity by subject  
    num -0.985538363333333...0.564875818162963  
 
 27. tBodyGyroJerkMeanX
 
+   average of mean body angular velocity jerk signal in the X direction for the activity by subject  
    num -0.157212539189362...-0.0220916265065217  
 
 28. tBodyGyroJerkMeanY
 
+   average of mean body angular velocity jerk signal in the Y direction for the activity by subject  
    num -0.0768089915604167 -0.0132022768074468  
 
 29. tBodyGyroJerkMeanZ
 
+   average of mean body angular velocity jerk signal in the Z direction for the activity by subject  
    num -0.0924998531372549 -0.00694066389361702  
 
 30. tBodyGyroJerkStdX
 
+   average of standard deviation body angular velocity jerk signal in the X direction for the activity by subject  
    num -0.99654254057971...0.179148649684615 
 
 31. tBodyGyroJerkStdY
 
+   average of standard deviation body angular velocity jerk signal in the Y direction for the activity by subject  
    num -0.997081575652174...0.295945926186441  
 
 32. tBodyGyroJerkStdZ
 
+   average of standard deviation body angular velocity jerk signal in the Z direction for the activity by subject  
    num -0.995380794637681...0.193206498960417  
 
 33. tBodyAccMagMean
